@@ -1,2 +1,2 @@
 # chatApp
-This is a free to us python based chat application.
+This is a free to use python based chat application.
